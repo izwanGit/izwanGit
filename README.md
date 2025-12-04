@@ -63,6 +63,11 @@ I am a curious problem-solver and **JPA Scholar** pursuing a Bachelor's in Compu
 * **About:** A full-stack web and mobile (MIT App Inventor) ordering system that digitized a local Kuih Batang Buruk business, replacing pen-and-paper operations.
 * **Award:** Winner of Youth Innovation Final Project Presentation (2023).
 
+#### 🔐 [RentVerse: Mobile SecOps Platform](https://github.com/izwanGit/uitm-devops-challenge_TeamOne)
+* **Status:** 🚧 Active Competition (UiTM Mobile SecOps Challenge)
+* **Tech:** Next.js, Node.js, PostgreSQL (Prisma), OWASP Standards.
+* **Security:** Implements Multi-Factor Authentication (TOTP), Rate Limiting, RBAC, and Defense-in-Depth strategies against brute-force attacks.
+* **About:** A secure full-stack property rental platform built to demonstrate robust backend integrity and frontend usability under strict security constraints.
 ---
 
 ### 📊 GitHub Stats
