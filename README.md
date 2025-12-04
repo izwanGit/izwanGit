@@ -60,9 +60,10 @@ I am a curious problem-solver and **JPA Scholar** pursuing a Bachelor's in Compu
 ---
 
 ### 📊 GitHub Stats
-
-[![Izwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izwanGit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izwanGit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=izwanGit&show_icons=true&theme=radical&hide_border=true" height="180" alt="Izwan's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izwanGit&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
 ---
 <div align="center">
