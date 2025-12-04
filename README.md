@@ -20,7 +20,12 @@ I am a curious problem-solver and **JPA Scholar** pursuing a Bachelor's in Compu
 
 * 🔭 I’m currently working on **Beruang**, a Hybrid AI Financial Architect app.
 * 🛡️ I’m exploring **DevSecOps** and **Network Penetration Testing**.
-* 🏆 **Achievements:** Vice Chancellor's Award, Dean's List (Every Semester), Best AI Booth Award (2025).
+* 🏆 **Key Awards:**
+  * **Vice Chancellor's Award** (Diploma in Computer Science)
+  * **Best Website GUI Award** (UiTM Website Competition)
+  * **Best System Architecture Award** (Final Year Project)
+  * **Best AI Booth Award** (AI Seminar 2025)
+  * **Dean's List** (Every Semester)
 * 💡 **Philosophy:** "Tell me and I forget, teach me and I may remember, involve me and I learn."
 
 ---
@@ -56,6 +61,7 @@ I am a curious problem-solver and **JPA Scholar** pursuing a Bachelor's in Compu
 #### 🍪 [Kuehlicious Ordering System](https://github.com/izwanGit/KuihBatangBurukOrderingSystem)
 * **Tech:** PHP, MySQL, JavaScript.
 * **About:** A full-stack web and mobile (MIT App Inventor) ordering system that digitized a local Kuih Batang Buruk business, replacing pen-and-paper operations.
+* **Award:** Winner of Youth Innovation Final Project Presentation (2023).
 
 ---
 
