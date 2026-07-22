@@ -26,9 +26,15 @@
 
 ## 👋 About Me
 
-Fresh Computer Science graduate from UiTM (3.93 CGPA · Dean's List every semester · JPA Scholar). I build web apps, mobile apps, AI systems, and automation tools that solve real problems.
+Fresh Computer Science graduate from UiTM — Dean's List every semester, JPA Scholar.
 
-Most recently, I interned at **PETRONAS Digital** where I self-initiated and shipped 10+ production automation systems in 3 months — all still running autonomously today.
+I started from a low-ranked school in my hometown. Nobody expected much. I ended up with straight A's in SPM, a Vice Chancellor's Award in my diploma, and an internship at PETRONAS Digital — where in 3 months, I self-initiated and shipped 10+ production automation systems that are still running autonomously today, serving the team behind Oracle HCM Cloud for 50,000+ PETRONAS employees. Nobody asked me to build them. I just spotted the problems and built the solutions.
+
+My final year project became **Beruang** — an AI-powered personal finance app for Malaysians, because I noticed young Malaysians struggling with money and decided to do something about it. It won Best System Architecture at my university.
+
+I've also won a DevSecOps competition champion title, a Best AI Booth award, scaled an e-commerce from RM100 to RM100,000/month during a previous internship, and built a live product for a client while still in university.
+
+Right now I've just graduated and I'm actively looking for full-time roles in software engineering, AI, or automation — while taking on freelance projects on the side.
 
 > *"Tell me and I forget, teach me and I may remember, involve me and I learn."*
 
@@ -56,7 +62,7 @@ At **PETRONAS Digital Sdn Bhd**, I supported Oracle HCM Cloud (myCareerX) servin
 - 🤖 **Best AI Booth** — AI Seminar 2025 (Batik Recognition, 94.2% accuracy)
 - 🌐 **Best Website GUI** — UiTM Website Competition (Kuehlicious)
 - ⭐ **Outstanding Performance Recognition** — West Malayan Group
-- 📚 **Dean's List** — Every semester, diploma & degree
+- 📚 **Dean's List** — Every semester, diploma and degree
 - 🎖️ **Best Student Award** — SPM 2020
 - 🌐 **Gemini Certified** — Google (2025)
 
@@ -65,7 +71,7 @@ At **PETRONAS Digital Sdn Bhd**, I supported Oracle HCM Cloud (myCareerX) servin
 ## 🚀 Featured Projects
 
 #### 🐻 [Beruang — AI Personal Finance App](https://github.com/izwanGit/Beruang) &nbsp; `🏆 Best System Architecture — FYP`
-AI-powered money management app for Malaysians. Bi-LSTM trained on 220,000+ transactions (99.61% accuracy), RAG financial advisor, receipt scanning via Gemini 2.5 Flash. 98.2% of testers felt more confident managing finances.
+AI-powered money management app for Malaysians. Bi-LSTM trained on 220,000+ transactions (99.61% accuracy), RAG financial advisor, receipt scanning via Gemini 2.5 Flash. 98.2% of testers felt more confident managing their finances.
 `React Native` `TensorFlow.js` `RAG` `Grok API` `Firebase` `Node.js`
 
 ---
@@ -88,7 +94,7 @@ AI chatbot for Mandarin practice with GPT-4o-mini, dynamic listening quizzes, Go
 
 ---
 
-#### 🖌️ [Batik Recognition & Classification](https://github.com/izwanGit/BatikRecognitionAndClassification) &nbsp; `🏆 Best AI Booth — AI Seminar 2025`
+#### 🖌️ [Batik Recognition and Classification](https://github.com/izwanGit/BatikRecognitionAndClassification) &nbsp; `🏆 Best AI Booth — AI Seminar 2025`
 Real-time computer vision system classifying Malaysian vs Indonesian batik using Vision Transformer (ViT) with 94.2% accuracy. Live webcam demo.
 `Python` `ViT` `OpenCV` `Flask` `Roboflow`
 
