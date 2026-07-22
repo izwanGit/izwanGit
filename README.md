@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-Fresh Computer Science graduate from UiTM. Vice Chancellor's Award in diploma, Dean's List every semester across both diploma and degree, and a JPA Scholar.
+Fresh Computer Science graduate from UiTM. Vice Chancellor's Award (Dean's List every semester) across both diploma and degree, and a JPA Scholar.
 
 I try to build things that actually solve problems. During my internship at PETRONAS Digital, I noticed a few workflows that could be improved, built some automation tools to help the team, and somehow ended up shipping 10+ systems in 3 months that are still running today. Before that, I helped grow a company's e-commerce from RM100 to RM100,000 a month during a 7-month internship, just by spotting small things that could be done better.
 
