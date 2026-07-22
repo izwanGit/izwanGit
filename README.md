@@ -38,7 +38,7 @@ I genuinely enjoy building, whether it is a web app, a mobile app, an AI system,
 
 <br/>
 
-Interned at **PETRONAS Digital Sdn Bhd** supporting Oracle HCM Cloud (myCareerX) for **50,000+ employees**. Self-initiated 10+ automation systems across reporting, RPA, and ITSM. All still running in production today.
+Interned at **PETRONAS Digital Sdn Bhd** supporting Oracle HCM Cloud (myCareerX) for **50,000+ employees**. Self-initiated 10+ automation systems across reporting, RPA, and ITSM. Which help lessen the burden of PETRONAS employees. All automation still running in production today.
 
 > Repos are private (NDA) but happy to chat about the work anytime.
 
